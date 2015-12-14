@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "smartport",
+    "packageName": "com.volteo.smartport",
+    "packageFolder": "com/volteo/smartport",
+    "authenticationType": "oauth2",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "fd436731455c702eae1aa7faf5e565afcb15e22c",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
