@@ -17,6 +17,7 @@ import java.util.Arrays;
 
 /**
  * Aspect for logging execution of service and repository Spring components.
+ * @author Chenna Ganesh
  */
 @Aspect
 public class LoggingAspect {
